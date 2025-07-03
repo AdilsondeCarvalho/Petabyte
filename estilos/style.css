@@ -24,6 +24,23 @@ main {
     border-radius: 10px;
 }
 
+main > h1 {
+    color: #002EA7;
+    text-align: center;
+}
+
+main > p {
+    text-align: center;
+}
+
+div {
+    background-color: #609000;
+    border: 1px solid #002EA7;
+    text-align: center;
+    height: 200px;
+    height: 200px;
+}
+
 footer {
     background-color: black;
     color: white;
